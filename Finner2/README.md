@@ -5,7 +5,8 @@ without the Alt Gr keys which is more developer friendly.
 
 I also wanted to map Caps Lock to Ctrl but that was unfortunately not possible
 with Windows keyboard layout creator. I finally remapped the keys with
-PowerToys in Windows.
+PowerToys in Windows. Edit: I used ctrl2cap for it which is much faster. Power toys
+surges cpu usage randomly.
 
 What would be really cool is to get the Executable via a script so that
 don't have manually import the klc file and such. Challenge for another day.
@@ -20,3 +21,4 @@ I really hope you enjoy using this layout. Happy Coding!!!
 2. https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/available-language-packs-for-windows?view=windows-11
 3. https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/default-input-locales-for-windows-language-packs?view=windows-11
 4. https://kbdlayout.info/KBDFI/
+5. https://learn.microsoft.com/en-us/sysinternals/downloads/ctrl2cap
